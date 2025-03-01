@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{48B8EC6B-06B0-4B0E-8249-29F7739F1D6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Duom1.csv">
+    <Files>
+      <File FileName="Program.cs" Line="35" Column="81" />
+      <File FileName="InOut.cs" Line="115" Column="60" />
+      <File FileName="TaskUtils.cs" Line="32" Column="82" />
+      <File FileName="Conteiner.cs" Line="23" Column="25" />
+      <File FileName="Prenumerator.cs" Line="24" Column="33" />
+      <File FileName="Product.cs" Line="24" Column="46" />
+      <File FileName="Tasks.txt" Line="27" Column="100" />
+      <File FileName="Leidiniai.csv" Line="3" Column="1" />
+      <File FileName="Data/Duom1.csv" Line="5" Column="1" />
+      <File FileName="Data/Duom2.csv" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5Laboras" expanded="True">
+            <Node name="5Laboras" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Duom1.csv" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.5Laboras PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

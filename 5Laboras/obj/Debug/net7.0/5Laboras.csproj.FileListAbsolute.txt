@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/5Laboras/bin/Debug/net7.0/5Laboras
+/Users/IceTea/Projects/5Laboras/bin/Debug/net7.0/5Laboras.deps.json
+/Users/IceTea/Projects/5Laboras/bin/Debug/net7.0/5Laboras.runtimeconfig.json
+/Users/IceTea/Projects/5Laboras/bin/Debug/net7.0/5Laboras.dll
+/Users/IceTea/Projects/5Laboras/bin/Debug/net7.0/5Laboras.pdb
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.AssemblyInfo.cs
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.dll
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/refint/5Laboras.dll
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.pdb
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/5Laboras.genruntimeconfig.cache
+/Users/IceTea/Projects/5Laboras/obj/Debug/net7.0/ref/5Laboras.dll

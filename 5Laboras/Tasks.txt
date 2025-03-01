@@ -1,0 +1,28 @@
+﻿Laborui:
+Internetinė naudotojo sąsaja
+Originalūs pradiniai duomenys įrašomi į masyvą ar susietąjį sąrašą
+Pradiniai duomenys ir rezultatai rodomi ekrane
+Pradiniai duomenys ir rezultatai spausdinami lentelėmis tekstiniame faile
+Komentarai
+Lygiavimas
+Uzklojamas ToString()
+1) Lambda išraiškos, LINQ
+2) >=3 metodų, realizuotų LINQ komandomis
+3) Pagrindinė programa įgyvendina išimčių valdymą. Metodai atlieka kontrolę ir sukelia išimtis
+4) Skaičiavimams naudojami bent 2 mygtukai
+5) Rezultatai pateikiami lentelėmis naudotojo sąsajoje
+6) Daug duomenų failų
+7) Failų suradimui naudojami Directory ar DirectoryInfo metodai
+Jei 4 < galutinis pažymys < 10 ir lentelės generuojamos dinamiškai (duomenų failų kiekis gali kisti, lentelių kiekis irgi turi
+atitinkamai kisti), suteikiamas papildomas taškas
+
+
+Ataskaitai:
+Naudotojo sąsajos schema
+Naudotojo sąsajos elementų pakeistos savybės
+Klasių diagramos
+Programos naudotojo vadovas, kuriame pateikiamas tipinis darbo scenarijus
+Kiekvienam LD ruošiama ataskaita .pdf formatu pagal pateiktą šabloną
+Ataskaitos failas įvardijamas: Grupė_Pavardė_Vardas (Pvz: IFF-3-1_Pavardenis_Vardenis)
+Dėstytojo pastabas, kurias gauna iš dėstytojo už programą ir ataskaitą, į ataskaitą įtraukia studentas
+Į dėstytojo pastabas taip pat įtraukiamas testo balas ir galutinis darbo vertinimas
